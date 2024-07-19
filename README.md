@@ -47,7 +47,9 @@
 <h2 align="center">Oque estou aprendendo:</h2>
 
 ###
+- **Progamação** :  .NET, Java Spring Boot e Docker
+- **Tópicos**: Desenvolvimento de aplicativos
 
-<p align="left">Progamação:  .NET, Java Spring Boot e Docker <br>Tópicos: Desenvolvimento de aplicativos</p>
-
-###
+<h2>Contatos:</h2>
+<a href="mailto:luizflwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luizffs777/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
